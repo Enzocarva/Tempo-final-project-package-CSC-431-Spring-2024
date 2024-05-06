@@ -10,6 +10,7 @@ Sal's artistic talents and front-end skills were instrumental in designing an en
 
 
 The contents of the folders are the following:
+
 presentations:
   - The midterm presentation which includes Tempo's main concept, functional and non-functional requirements, cases and constraints, and the evolution/plans for the future.
   - The final presentations which includes a recap of the project, system analysis, design rationale, functional deisigns, structural design, and the project mockup.
